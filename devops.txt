@@ -1,1 +1,2 @@
 Hey this is my 1st Git pratice class.
+This is my second line of Git pratice
